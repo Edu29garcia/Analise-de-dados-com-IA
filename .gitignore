@@ -1,0 +1,5 @@
+.venv/
+chave.env
+__pycache__/
+*.pyc
+relatorio_perguntas_respostas_*.pdf

@@ -1,0 +1,10 @@
+pandas
+gradio
+matplotlib
+numpy
+fpdf2
+python-dotenv
+llama-index-core
+llama-index-llms-groq
+tabulate
+groq
